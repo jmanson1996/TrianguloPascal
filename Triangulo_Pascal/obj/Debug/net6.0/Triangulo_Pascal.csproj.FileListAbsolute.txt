@@ -1,0 +1,14 @@
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\bin\Debug\net6.0\Triangulo_Pascal.exe
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\bin\Debug\net6.0\Triangulo_Pascal.deps.json
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\bin\Debug\net6.0\Triangulo_Pascal.runtimeconfig.json
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\bin\Debug\net6.0\Triangulo_Pascal.dll
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\bin\Debug\net6.0\Triangulo_Pascal.pdb
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\obj\Debug\net6.0\Triangulo_Pascal.GeneratedMSBuildEditorConfig.editorconfig
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\obj\Debug\net6.0\Triangulo_Pascal.AssemblyInfoInputs.cache
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\obj\Debug\net6.0\Triangulo_Pascal.AssemblyInfo.cs
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\obj\Debug\net6.0\Triangulo_Pascal.csproj.CoreCompileInputs.cache
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\obj\Debug\net6.0\Triangulo_Pascal.dll
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\obj\Debug\net6.0\refint\Triangulo_Pascal.dll
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\obj\Debug\net6.0\Triangulo_Pascal.pdb
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\obj\Debug\net6.0\Triangulo_Pascal.genruntimeconfig.cache
+G:\proyectos c#\Triangulo_Pascal\Triangulo_Pascal\obj\Debug\net6.0\ref\Triangulo_Pascal.dll
